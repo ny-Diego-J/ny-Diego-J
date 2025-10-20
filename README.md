@@ -12,10 +12,10 @@
 
 ## about me
 
-- **I am a huge Chiefs fan**
+**I am a huge Chiefs fan**
 
 <img src="img/chiefs.avif" height="100px"><img src="img/Kansas_City_Chiefs_logo.svg.png" height="100px">
 
-- I am proud to be a meber of <a src="https://glas-flex.ch/ ">Glas-flex</a>
+I am proud to be a meber of <a src="https://glas-flex.ch/ ">Glas-flex</a>
 
 <!--if you read THIS YOU ARE ... a verry interesing person-->
