@@ -8,6 +8,9 @@
 <a href="https://archlinux.org">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img>
 </a>
+<a href="https://neovim.io">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" />
+</a>
 <!--What are you doing with your Life?-->
 
 ## about me
